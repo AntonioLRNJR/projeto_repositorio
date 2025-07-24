@@ -1,7 +1,5 @@
 # Dicionário de dados
 
-Dicionário de variáveis:
-
 - `Diabetes_binary`: 0 = sem diabetes, 1 = com diabetes
 - `HighBP`: 0 = sem pressão alta, 1 = com pressão alta
 - `HighChol`: 0 = sem colesterol alto, 1 = com colesterol alto
